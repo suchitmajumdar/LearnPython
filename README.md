@@ -30,7 +30,7 @@ The list of topics covered are as below.
   <tr>
     <th>PythonBasics_3</th>
     <th align='left'>
-      09. Python Output<br/>
+       9. Python Output<br/>
       10. Output Formatting<br/>
       11. Python Input
      </th>
