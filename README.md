@@ -8,7 +8,7 @@ The list of topics covered are as below.
   <tr><th>Sheet Name</th><th>Topics Covered</th></tr>
   <tr>
     <th>PythonBasics_1</th>
-    <th>
+    <th align='left'>
       1. Python Keywords<br/>
       2. Identifiers<br/>
       3. Comments in Python<br/>
