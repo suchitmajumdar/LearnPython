@@ -6,7 +6,7 @@ The list of topics covered are as below.
 
 <table width='100%'>
   
-  <tr><th>Sheet Name</th><th>Topics Covered</th></tr>
+  <tr><th>Sheet Name</th><th><a href='PythonBasics_1.ipynb'>Topics Covered</a></th></tr>
   <tr>
     <th>PythonBasics_1</th>
     <th align='left'>
