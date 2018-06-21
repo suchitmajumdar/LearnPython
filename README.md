@@ -4,11 +4,11 @@ A simple Tutorial on topics in Python that can help you get started with Python 
 
 The list of topics covered are as below.
 
-<table width='100%'>
+<table width=100%>
   
-  <tr><th>Sheet Name</th><th><a href='PythonBasics_1.ipynb'>Topics Covered</a></th></tr>
+  <tr><th>Sheet Name</th><th>Topics Covered</th></tr>
   <tr>
-    <th>PythonBasics_1</th>
+    <th><a href='PythonBasics_1.ipynb'>PythonBasics_1</a></th>
     <th align='left'>
       1. Python Keywords<br/>
       2. Identifiers<br/>
@@ -19,7 +19,7 @@ The list of topics covered are as below.
   </tr>
   
   <tr>
-    <th>PythonBasics_2</th>
+    <th><a href='PythonBasics_2.ipynb'>PythonBasics_2</a></th>
     <th align='left'>
       6. Variables<br/>
       7. Data Types<br/>
@@ -28,7 +28,7 @@ The list of topics covered are as below.
   </tr>
   
   <tr>
-    <th>PythonBasics_3</th>
+    <th><a href='PythonBasics_3.ipynb'>PythonBasics_3</a></th>
     <th align='left'>
        9. Python Output<br/>
       10. Output Formatting<br/>
