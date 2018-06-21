@@ -46,4 +46,15 @@ The list of topics covered are as below.
   </tr>
 
 
+  <tr>
+    <th><a href='PythonBasics_5.ipynb'>PythonBasics_5</a></th>
+    <th align='left'>
+      14. List<br/>
+      15. Tuples<br/>
+      16. Sets<br/>
+      17. Dictionary<br/>
+      18. Strings
+    </th>
+  </tr>
+
 </table>
