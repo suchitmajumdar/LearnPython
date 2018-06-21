@@ -10,9 +10,9 @@ The list of topics covered are as below.
     <th>PythonBasics_1</th>
     <th>
       1. Python Keywords<br/>
-      2. Identifiers
-      3. Comments in Python
-      4. Python Indentation
+      2. Identifiers<br/>
+      3. Comments in Python<br/>
+      4. Python Indentation<br/>
       5. Python Statement
     </th>
   </tr>
