@@ -36,7 +36,14 @@ The list of topics covered are as below.
       11. Python Input
      </th>
   </tr>
-
+  
+  <tr>
+    <th><a href='PythonBasics_4.ipynb'>PythonBasics_4</a></th>
+    <th align='left'>
+      12. Operators<br/>
+      13. Control Flow
+     </th>
+  </tr>
 
 
 </table>
