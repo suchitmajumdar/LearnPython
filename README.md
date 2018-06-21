@@ -1,7 +1,7 @@
 # LearnPython
 A simple Tutorial on topics in Python that can help you get started with Python coding very easily
 
-<a href="https://www.patreon.com/bePatron?u=11868549" data-patreon-widget-type="become-patron-button">And please support me on Patron!</a>
+<a href="https://www.patreon.com/bePatron?u=11868549" data-patreon-widget-type="become-patron-button">And please support me on <b>patreon!<b></a>
 
 The list of topics covered are as below.
 
