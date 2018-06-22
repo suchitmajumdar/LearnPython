@@ -58,3 +58,8 @@ The list of topics covered are as below.
   </tr>
 
 </table>
+
+
+
+<center><h1>References</h1></center>
+<a href='http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)'/>
