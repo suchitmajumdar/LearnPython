@@ -63,7 +63,7 @@ The list of topics covered are as below.
 
 <h1>References</h1><br/>
 I would like to extend my gratitude to the below websites which have provided extensive materials around Python and thereby helping the community advance in their learning in Python.
-
+<br/><br/>
 
 <a href='http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)'>http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)</a><br/>
 <a href='https://www.tutorialspoint.com'>https://www.tutorialspoint.com</a><br/>
