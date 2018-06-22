@@ -61,5 +61,8 @@ The list of topics covered are as below.
 
 
 
-<center><h1>References</h1></center>
+<h1>References</h1>
 <a href='http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)'/>
+<a href='https://www.tutorialspoint.com'/>
+<a href='https://www.programiz.com/python-programming/decorator'/>
+<a href='https://www.w3schools.com'/>
