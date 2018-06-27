@@ -29,6 +29,9 @@ The list of topics covered are as below.
       7. Data Types<br/>
       8. Conversion between Datatypes
     </th>
+    <th>
+      
+    </th>
   </tr>
   
   <tr>
@@ -38,6 +41,9 @@ The list of topics covered are as below.
       10. Output Formatting<br/>
       11. Python Input
      </th>
+    <th>
+      
+    </th>
   </tr>
   
   <tr>
@@ -46,6 +52,9 @@ The list of topics covered are as below.
       12. Operators<br/>
       13. Control Flow
      </th>
+    <th>
+      
+    </th>
   </tr>
 
 
@@ -57,6 +66,9 @@ The list of topics covered are as below.
       16. Sets<br/>
       17. Dictionary<br/>
       18. Strings
+    </th>
+    <th>
+      
     </th>
   </tr>
 
