@@ -7,7 +7,7 @@ The list of topics covered are as below.
 
 <table width=100%>
   
-  <tr><th>Sheet Name</th><th>Topics Covered</th></tr>
+  <tr><th>Sheet Name</th><th>Topics Covered</th><th>Video Links</th></tr>
   <tr>
     <th><a href='PythonBasics_1.ipynb'>PythonBasics_1</a></th>
     <th align='left'>
@@ -17,6 +17,9 @@ The list of topics covered are as below.
       4. Python Indentation<br/>
       5. Python Statement
     </th>
+    <th>
+      https://www.youtube.com/watch?v=aircAruvnKk
+    </th>  
   </tr>
   
   <tr>
