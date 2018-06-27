@@ -71,6 +71,20 @@ The list of topics covered are as below.
       link
     </th>
   </tr>
+ 
+  <tr>
+    <th><a href='PythonBasics_6.ipynb'>PythonBasics_6</a></th>
+    <th align='left'>
+      19. What are Functions<br/>
+      20. What are the types of Functions<br/>
+      21. Arguments in a function<br/>
+      22. Recursive functions<br/>
+      23. Lambda or Anonymous Functions
+    </th>
+    <th>
+      link
+    </th>
+  </tr>
 
 </table>
 
