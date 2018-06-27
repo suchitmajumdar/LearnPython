@@ -30,7 +30,7 @@ The list of topics covered are as below.
       8. Conversion between Datatypes
     </th>
     <th>
-      
+      link
     </th>
   </tr>
   
@@ -42,7 +42,7 @@ The list of topics covered are as below.
       11. Python Input
      </th>
     <th>
-      
+      link
     </th>
   </tr>
   
@@ -53,7 +53,7 @@ The list of topics covered are as below.
       13. Control Flow
      </th>
     <th>
-      
+      link
     </th>
   </tr>
 
@@ -68,7 +68,7 @@ The list of topics covered are as below.
       18. Strings
     </th>
     <th>
-      
+      link
     </th>
   </tr>
 
