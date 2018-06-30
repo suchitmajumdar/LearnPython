@@ -1,5 +1,7 @@
 # LearnPython
-A simple Tutorial on topics in Python that can help you get started with Python coding very easily
+A simple Tutorial on topics in Python that can help you get started with Python coding very easily. 
+Also if you are someone who is looking to quickly recollect some topic you may have forgotten these notebooks and videos will 
+help you recollect the same very easily. Do share this repository and videos to all your friends who are looking to get started with Python.
 
 <!-- <a href="https://www.patreon.com/bePatron?u=11868549" data-patreon-widget-type="become-patron-button">And please support me on <b>patreon!<b></a> -->
 
