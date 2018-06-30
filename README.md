@@ -127,6 +127,7 @@ I would like to extend my gratitude to the below websites which have provided ex
 <br/><br/>
 
 <a href='http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)'>http://artofproblemsolving.com/wiki/index.php?title=Sequence_(Python)</a><br/>
+<a href='https://www.geeksforgeeks.org'>https://www.geeksforgeeks.org</a><br/>
 <a href='https://www.tutorialspoint.com'>https://www.tutorialspoint.com</a><br/>
 <a href='https://www.programiz.com/python-programming/decorator'>https://www.programiz.com/python-programming/decorator</a><br/>
 <a href='https://www.w3schools.com'>https://www.w3schools.com</a><br/>
