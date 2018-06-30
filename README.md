@@ -1,9 +1,11 @@
 # LearnPython
-A simple Tutorial on topics in Python that can help you get started with Python coding very easily. 
-Also if you are someone who is looking to quickly recollect some topic you may have forgotten these notebooks and videos will 
-help you recollect the same very easily. Do share this repository and videos to all your friends who are looking to get started with Python.
+A simple Tutorial to help you get started with Python coding in very easy steps. 
+Also if you are someone who is looking to quickly recollect some topic you may have forgotten, these notebooks and videos will 
+help you recollect the same in no time. 
 
-<!-- <a href="https://www.patreon.com/bePatron?u=11868549" data-patreon-widget-type="become-patron-button">And please support me on <b>patreon!<b></a> -->
+Do share this repository and videos with all your friends who are looking to get started with Python.
+
+<!-- <a href="https://www.patreon.com/bePatron?u=11868549" data-patreon-widget-type="become-patron-button">And please support me on <b>Patreon!<b></a> -->
 
 The list of topics covered are as below.
 
@@ -82,6 +84,34 @@ The list of topics covered are as below.
       21. Arguments in a function<br/>
       22. Recursive functions<br/>
       23. Lambda or Anonymous Functions
+    </th>
+    <th>
+      link
+    </th>
+  </tr>
+ 
+  <tr>
+    <th><a href='PythonBasics_7.ipynb'>PythonBasics_7</a></th>
+    <th align='left'>
+      24. <br/>
+      25. <br/>
+      26. <br/>
+      27. <br/>
+      28. 
+    </th>
+    <th>
+      link
+    </th>
+  </tr>
+ 
+  <tr>
+    <th><a href='PythonBasics_8.ipynb'>PythonBasics_8</a></th>
+    <th align='left'>
+      24. <br/>
+      25. <br/>
+      26. <br/>
+      27. <br/>
+      28. 
     </th>
     <th>
       link
