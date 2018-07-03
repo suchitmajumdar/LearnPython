@@ -22,7 +22,7 @@ The list of topics covered are as below.
       5. Python Statement
     </th>
     <th>
-      https://www.youtube.com/watch?v=aircAruvnKk
+      link
     </th>  
   </tr>
   
