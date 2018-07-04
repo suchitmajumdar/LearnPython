@@ -93,31 +93,17 @@ The list of topics covered are as below.
   <tr>
     <th><a href='PythonBasics_7.ipynb'>PythonBasics_7</a></th>
     <th align='left'>
-      24. <br/>
-      25. <br/>
-      26. <br/>
-      27. <br/>
-      28. 
+      24. Modules<br/>
+      25. Package<br/>
+      26. File Handling<br/>
+      27. Exception Handling<br/>
+      28. Debugging Python
     </th>
     <th>
       link
     </th>
   </tr>
- 
-  <tr>
-    <th><a href='PythonBasics_8.ipynb'>PythonBasics_8</a></th>
-    <th align='left'>
-      24. <br/>
-      25. <br/>
-      26. <br/>
-      27. <br/>
-      28. 
-    </th>
-    <th>
-      link
-    </th>
-  </tr>
-
+  
 </table>
 
 
